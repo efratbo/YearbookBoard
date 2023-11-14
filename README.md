@@ -22,6 +22,8 @@ PUT: https:// YearbookBoard.co.il /telephone-boards/{id} - מעדכן לוח ט�
 DELETE: https:// YearbookBoard.co.il /telephone-boards/{id} - מוחק לוח טלפון קיים
 
 
+
+
 אירועים שנתון:
 GET: https:// YearbookBoard.co.il /events - מחזיר את כל האירועים
 

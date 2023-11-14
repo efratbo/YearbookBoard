@@ -44,6 +44,7 @@ GET: https:// YearbookBoard.co.il /updates/{id} - מחזיר את העדכון �
 POST: https:// YearbookBoard.co.il /updates - יוצר עדכון חדש
 
 PUT: https:// YearbookBoard.co.il /updates/{id} - מעדכן עדכון קיים
+
 DELETE: https:// YearbookBoard.co.il /updates/{id} - מוחק עדכון קיים
 
 

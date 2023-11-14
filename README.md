@@ -10,10 +10,15 @@
 
 טלפונים שנתון:
 
+
 GET: https:// YearbookBoard.co.il /telephone-boards - מחזיר את כל לוחות הטלפון
+
 GET: https:// YearbookBoard.co.il /telephone-boards/{id} - מחזיר את לוח הטלפון לפי מזהה
+
 POST: https:// YearbookBoard.co.il /telephone-boards - יוצר לוח טלפון חדש
+
 PUT: https:// YearbookBoard.co.il /telephone-boards/{id} - מעדכן לוח טלפון קיים
+
 DELETE: https:// YearbookBoard.co.il /telephone-boards/{id} - מוחק לוח טלפון קיים
 
 אירועים שנתון:

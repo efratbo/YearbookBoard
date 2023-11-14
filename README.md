@@ -11,7 +11,7 @@
 טלפונים שנתון:
 
 
-GET: https:// YearbookBoard.co.il /telephone-boards - מחזיר את כל לוחות הטלפון
+GET: [https:// YearbookBoard.co.il /telephone-boards] - מחזיר את כל לוחות הטלפון
 
 GET: https:// YearbookBoard.co.il /telephone-boards/{id} - מחזיר את לוח הטלפון לפי מזהה
 

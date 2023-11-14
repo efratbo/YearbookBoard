@@ -25,6 +25,7 @@ DELETE: https:// YearbookBoard.co.il /telephone-boards/{id} - מוחק לוח ט
 
 
 אירועים שנתון:
+
 GET: https:// YearbookBoard.co.il /events - מחזיר את כל האירועים
 
 GET: https:// YearbookBoard.co.il /events/{id} - מחזיר את האירוע לפי מזהה
